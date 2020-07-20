@@ -1,0 +1,36 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="HaNhutNam_LTWeb.MasterPage" %>
+
+<%@ Register Src="~/UC/UCHeader.ascx" TagPrefix="uc1" TagName="UCHeader" %>
+<%@ Register Src="~/UC/UCMenu.ascx" TagPrefix="uc1" TagName="UCMenu" %>
+<%@ Register Src="~/UC/UCFooter.ascx" TagPrefix="uc1" TagName="UCFooter" %>
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="Styles/css/modern-business.css" rel="stylesheet" />
+    <link href="Styles/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="background-color:#444444;">
+    <form id="form1" runat="server">
+        <uc1:UCHeader runat="server" ID="UCHeader" />
+        <uc1:UCMenu runat="server" id="UCMenu" />
+        <div class="container bg-dark mt-5 p-3">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    <script src="Styles/vendor/jquery/jquery.js"></script>
+    <script src="Styles/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+    <uc1:UCFooter runat="server" ID="UCFooter" />
+</body>
+</html>

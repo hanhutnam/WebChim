@@ -1,0 +1,11 @@
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\bin\HaNhutNam_LTWeb.dll.config
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\bin\HaNhutNam_LTWeb.dll
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\bin\HaNhutNam_LTWeb.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.dll
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.pdb
+C:\Users\LAPTOPVTC.VN\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csprojAssemblyReference.cache
+D:\năm 3\nam\hanhutnam_064_D16PM01.kiến trúc\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csprojAssemblyReference.cache
+D:\năm 3\nam\hanhutnam_064_D16PM01.kiến trúc\HaNhutNam_LTWeb\HaNhutNam_LTWeb\obj\Debug\HaNhutNam_LTWeb.csproj.CoreCompileInputs.cache

@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage2.master.cs" Inherits="HaNhutNam_LTWeb.MasterPage2" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="Styles/css/modern-business.css" rel="stylesheet" />
+    <link href="Styles/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+    
+    <script src="Styles/vendor/jquery/jquery.js"></script>
+    <script src="Styles/vendor/bootstrap/js/bootstrap.bundle.js"></script>
+</body>
+</html>
